@@ -1,0 +1,1067 @@
+AssessUtil Init 
+BuildGraph Init 
+DbUtil Init 
+CacheUtil Init totalWid:456785 totalPos:456785 totalCont:456785 totalStatus:1083264 totalUsers:360578 
+DbUtil Init 
+HttpUtil Init 
+ParseUtil Init 
+PreProcess Init 
+totalStatus:1083289 
+Spread Init 
+StrUtil Init 
+TimeUtil Init 
+TopicDiscover Init startTime:2009-08-12 00:00:00 query:select count(*) from tagstatus where time < '2009-08-12 00:00:00' 
+Test Start 
+date:2009-08-12 00:00:00 
+sid:3223 
+wid:215555 count1:0 count2:1 
+wid:379930 count1:0 count2:1 
+date:2009-08-13 00:00:00 
+sid:69319 
+sid:69476 
+sid:70220 
+sid:71138 
+sid:71699 
+sid:77659 
+sid:78515 
+sid:78554 
+sid:79360 
+sid:79661 
+sid:79758 
+sid:79863 
+wid:93529 count1:0.193432 count2:1 
+wid:113789 count1:1.35403 count2:1 
+wid:115135 count1:0.300894 count2:1 
+wid:125242 count1:0.193432 count2:1 
+wid:126155 count1:2.70805 count2:1 
+wid:140010 count1:1.35403 count2:1 
+wid:156842 count1:0.300894 count2:1 
+wid:163313 count1:0.193432 count2:1 
+wid:166413 count1:0.546902 count2:2 
+wid:166431 count1:0.54161 count2:1 
+wid:172206 count1:1.34327 count2:2 
+wid:181170 count1:0.54161 count2:1 
+wid:183353 count1:0.300894 count2:1 
+wid:188005 count1:0.193432 count2:1 
+wid:192153 count1:0.300894 count2:1 
+wid:194137 count1:0.193432 count2:1 
+wid:212630 count1:1.35403 count2:1 
+wid:215192 count1:1.35403 count2:1 
+wid:215569 count1:0.386864 count2:2 
+wid:215704 count1:0.193432 count2:1 
+wid:235792 count1:1.34327 count2:2 
+wid:236455 count1:0.300894 count2:1 
+wid:237427 count1:2.70805 count2:1 
+wid:240078 count1:0.193432 count2:1 
+wid:242062 count1:1.35403 count2:1 
+wid:255786 count1:2.70805 count2:1 
+wid:256606 count1:2.70805 count2:1 
+wid:323789 count1:1.35403 count2:1 
+wid:325362 count1:0.300894 count2:1 
+wid:325532 count1:0.193432 count2:1 
+wid:326607 count1:0.193432 count2:1 
+wid:330335 count1:0.193432 count2:1 
+wid:365693 count1:0.300894 count2:1 
+wid:387549 count1:0.300894 count2:1 
+wid:391088 count1:0.300894 count2:1 
+wid:403097 count1:0.54161 count2:1 
+wid:437712 count1:1.34327 count2:2 
+wid:437940 count1:0.193432 count2:1 
+wid:441106 count1:0.54161 count2:1 
+date:2009-08-14 00:00:00 
+sid:79987 
+sid:80006 
+sid:80007 
+sid:80011 
+sid:80012 
+sid:80020 
+sid:80035 
+sid:80051 
+sid:80055 
+sid:80114 
+sid:80132 
+sid:80134 
+sid:80135 
+sid:80136 
+sid:80157 
+sid:80162 
+sid:80166 
+sid:80167 
+sid:80168 
+sid:80170 
+sid:80173 
+sid:80177 
+sid:80183 
+sid:80184 
+sid:80185 
+sid:80186 
+sid:80187 
+sid:80189 
+sid:80193 
+sid:80194 
+sid:80198 
+sid:80199 
+sid:80205 
+sid:80210 
+sid:80212 
+sid:80215 
+sid:80219 
+sid:80220 
+sid:80221 
+sid:80225 
+sid:80229 
+sid:80230 
+sid:80233 
+sid:80260 
+sid:80263 
+sid:80282 
+sid:80283 
+sid:80284 
+sid:80288 
+sid:80295 
+sid:80303 
+sid:80309 
+sid:80313 
+sid:80321 
+sid:80331 
+sid:80333 
+sid:80344 
+sid:80355 
+sid:80356 
+sid:80359 
+sid:80360 
+sid:80361 
+sid:80370 
+sid:80372 
+sid:80374 
+sid:80376 
+sid:80382 
+sid:80387 
+sid:80388 
+sid:80389 
+sid:80394 
+sid:80396 
+sid:80400 
+sid:80429 
+sid:80430 
+sid:80439 
+sid:80440 
+sid:80454 
+sid:80457 
+sid:80464 
+sid:80477 
+sid:80488 
+sid:80490 
+sid:80498 
+sid:80516 
+sid:80528 
+sid:80538 
+sid:80539 
+sid:80540 
+sid:80544 
+sid:80552 
+sid:80567 
+sid:80569 
+sid:80571 
+sid:80578 
+sid:80580 
+sid:80591 
+sid:80601 
+sid:80602 
+sid:80618 
+sid:80626 
+sid:80627 
+sid:80628 
+sid:80634 
+sid:80635 
+sid:80637 
+sid:80640 
+sid:80641 
+sid:80647 
+sid:80648 
+sid:80651 
+sid:80653 
+sid:80654 
+sid:80655 
+sid:80656 
+sid:80659 
+sid:80660 
+sid:80662 
+sid:80668 
+sid:80670 
+sid:80672 
+sid:80673 
+sid:80677 
+sid:80691 
+sid:80692 
+sid:80699 
+sid:80704 
+sid:80705 
+sid:80731 
+sid:80732 
+sid:80742 
+sid:80755 
+sid:80757 
+sid:80758 
+sid:80767 
+sid:80768 
+sid:80771 
+sid:80773 
+sid:80775 
+sid:80784 
+sid:80785 
+sid:80789 
+sid:80791 
+sid:80794 
+sid:80795 
+sid:80796 
+sid:80813 
+sid:80815 
+sid:80818 
+sid:80819 
+sid:80826 
+sid:80829 
+sid:80833 
+sid:80852 
+sid:80854 
+sid:80855 
+sid:80857 
+sid:80859 
+sid:80860 
+sid:80861 
+sid:80863 
+sid:80870 
+sid:80881 
+sid:80882 
+sid:80887 
+sid:80888 
+sid:80894 
+sid:80900 
+sid:80906 
+sid:80915 
+sid:80918 
+sid:80921 
+sid:80922 
+sid:80929 
+sid:80931 
+sid:80932 
+sid:80942 
+sid:80967 
+sid:80968 
+sid:80981 
+sid:80982 
+sid:80988 
+sid:81001 
+sid:81002 
+sid:81010 
+sid:81011 
+sid:81014 
+sid:81019 
+sid:81022 
+sid:81031 
+sid:81041 
+sid:81046 
+sid:81051 
+sid:81062 
+sid:81078 
+sid:81079 
+sid:81082 
+sid:81086 
+sid:81098 
+sid:81110 
+sid:81111 
+sid:81137 
+sid:81148 
+sid:81153 
+sid:81156 
+sid:81198 
+sid:81199 
+sid:81260 
+sid:81263 
+sid:81267 
+sid:81275 
+sid:81276 
+sid:81281 
+sid:81289 
+sid:81293 
+sid:81296 
+sid:81305 
+sid:81309 
+sid:81314 
+sid:81318 
+sid:81319 
+sid:81320 
+sid:81324 
+sid:81326 
+sid:81330 
+sid:81333 
+sid:81364 
+sid:81367 
+sid:81368 
+sid:81380 
+sid:81418 
+sid:81424 
+sid:81427 
+sid:81444 
+sid:81474 
+sid:81507 
+sid:81509 
+sid:81510 
+sid:81511 
+sid:81516 
+sid:81524 
+sid:81525 
+sid:81536 
+sid:81537 
+sid:81548 
+sid:81556 
+sid:81558 
+sid:81587 
+sid:81599 
+sid:81622 
+sid:81638 
+sid:81666 
+sid:81667 
+sid:81674 
+sid:81679 
+sid:81680 
+sid:81687 
+sid:81688 
+sid:81690 
+sid:81698 
+sid:81703 
+sid:81711 
+sid:81715 
+sid:81718 
+sid:81740 
+sid:81741 
+sid:81744 
+sid:81746 
+sid:81753 
+sid:81766 
+sid:81799 
+sid:81801 
+sid:81802 
+sid:81803 
+sid:81818 
+sid:81832 
+sid:81845 
+sid:81873 
+sid:81905 
+sid:81911 
+sid:81913 
+sid:81915 
+sid:81916 
+sid:81917 
+sid:81942 
+sid:81993 
+sid:81995 
+sid:82040 
+sid:82071 
+sid:82137 
+sid:82165 
+sid:82169 
+sid:82173 
+sid:82184 
+sid:82214 
+sid:82224 
+sid:82227 
+sid:82228 
+sid:82237 
+sid:82238 
+sid:82239 
+sid:82243 
+sid:82283 
+sid:82284 
+sid:82286 
+sid:82290 
+sid:82318 
+sid:82326 
+sid:82372 
+sid:82373 
+sid:82375 
+sid:82380 
+sid:82382 
+sid:82399 
+sid:82409 
+sid:82413 
+sid:82415 
+sid:82416 
+wid:1 count1:12.2213 count2:11 
+wid:948 count1:3.03997 count2:1 
+wid:17833 count1:2.42405 count2:2 
+wid:23900 count1:6.07993 count2:1 
+wid:30029 count1:0.868562 count2:1 
+wid:31322 count1:2.02664 count2:1 
+wid:35861 count1:8.08018 count2:2 
+wid:36706 count1:0.506661 count2:1 
+wid:43386 count1:2.15471 count2:2 
+wid:49782 count1:6.07993 count2:1 
+wid:53048 count1:0.868562 count2:1 
+wid:57056 count1:0.759992 count2:1 
+wid:57202 count1:1.01332 count2:1 
+wid:60960 count1:2.02664 count2:1 
+wid:62401 count1:3.03997 count2:1 
+wid:64284 count1:1.21599 count2:1 
+wid:67609 count1:9.96264 count2:3 
+wid:68795 count1:3.03997 count2:1 
+wid:69212 count1:6.07993 count2:1 
+wid:72753 count1:3.59119 count2:2 
+wid:73998 count1:3.03997 count2:1 
+wid:79386 count1:6.07993 count2:1 
+wid:79745 count1:2.15471 count2:2 
+wid:80980 count1:3.03997 count2:1 
+wid:84110 count1:2.02664 count2:1 
+wid:86459 count1:2.02664 count2:1 
+wid:87314 count1:1.56707 count2:3 
+wid:88161 count1:0.868562 count2:1 
+wid:88308 count1:0.868562 count2:1 
+wid:97229 count1:3.03997 count2:1 
+wid:97400 count1:3.03997 count2:1 
+wid:98152 count1:7.63803 count2:3 
+wid:98952 count1:3.65623 count2:6 
+wid:99084 count1:5.39643 count2:3 
+wid:99696 count1:0.675548 count2:1 
+wid:101499 count1:3.03997 count2:1 
+wid:101770 count1:0.868562 count2:1 
+wid:104092 count1:0.467687 count2:1 
+wid:104227 count1:0.675548 count2:1 
+wid:104511 count1:2.02664 count2:1 
+wid:105205 count1:7.82337 count2:5 
+wid:105235 count1:0.868562 count2:1 
+wid:105248 count1:8.08018 count2:2 
+wid:105665 count1:1.21599 count2:1 
+wid:108245 count1:7.88709 count2:3 
+wid:108893 count1:33.3036 count2:33 
+wid:109217 count1:0.607993 count2:1 
+wid:109509 count1:6.07993 count2:1 
+wid:109880 count1:1.51998 count2:1 
+wid:110215 count1:2.02664 count2:1 
+wid:110229 count1:2.02664 count2:1 
+wid:113363 count1:2.42405 count2:2 
+wid:113789 count1:3.03997 count2:1 
+wid:113849 count1:0.607993 count2:1 
+wid:115135 count1:2.02664 count2:4 
+wid:118436 count1:6.07993 count2:1 
+wid:118601 count1:3.14229 count2:2 
+wid:122297 count1:0.467687 count2:1 
+wid:123143 count1:2.56514 count2:2 
+wid:123249 count1:3.03997 count2:1 
+wid:124660 count1:0.675548 count2:1 
+wid:124727 count1:3.03997 count2:1 
+wid:125408 count1:0.868562 count2:1 
+wid:126230 count1:1.01332 count2:1 
+wid:126239 count1:1.21599 count2:1 
+wid:126279 count1:0.467687 count2:1 
+wid:127207 count1:8.08018 count2:2 
+wid:127431 count1:1.01332 count2:1 
+wid:127649 count1:8.15865 count2:6 
+wid:128327 count1:1.51998 count2:1 
+wid:128452 count1:8.3022 count2:3 
+wid:131710 count1:1.51998 count2:1 
+wid:133300 count1:3.03997 count2:1 
+wid:134302 count1:1.01332 count2:1 
+wid:134823 count1:3.03997 count2:1 
+wid:136497 count1:1.01332 count2:1 
+wid:138033 count1:6.07993 count2:1 
+wid:138211 count1:0.759992 count2:1 
+wid:138985 count1:1.51998 count2:1 
+wid:139017 count1:2.02664 count2:1 
+wid:139085 count1:1.21599 count2:1 
+wid:139172 count1:4.27242 count2:4 
+wid:139961 count1:1.21599 count2:1 
+wid:142560 count1:3.03997 count2:1 
+wid:143653 count1:6.07993 count2:1 
+wid:143659 count1:8.08018 count2:2 
+wid:144930 count1:7.18238 count2:2 
+wid:145904 count1:3.03997 count2:1 
+wid:146079 count1:14.5791 count2:16 
+wid:146202 count1:2.27997 count2:3 
+wid:146604 count1:2.56514 count2:2 
+wid:147621 count1:0.552721 count2:1 
+wid:147975 count1:0.607993 count2:1 
+wid:148044 count1:1.21599 count2:1 
+wid:148071 count1:1.21599 count2:1 
+wid:148121 count1:0.868562 count2:1 
+wid:148417 count1:0.759992 count2:1 
+wid:148553 count1:3.03997 count2:1 
+wid:148812 count1:3.03997 count2:1 
+wid:149281 count1:1.51998 count2:2 
+wid:154342 count1:6.07993 count2:2 
+wid:154902 count1:5.97758 count2:3 
+wid:156430 count1:6.84932 count2:3 
+wid:156517 count1:10.1628 count2:7 
+wid:156583 count1:6.07993 count2:1 
+wid:156842 count1:7.18238 count2:2 
+wid:157056 count1:8.08018 count2:2 
+wid:157460 count1:3.03997 count2:1 
+wid:157616 count1:6.07993 count2:1 
+wid:162499 count1:3.03997 count2:1 
+wid:163313 count1:0.405329 count2:1 
+wid:164488 count1:0.467687 count2:1 
+wid:164676 count1:4.48899 count2:2 
+wid:169531 count1:2.02664 count2:1 
+wid:171014 count1:0.405329 count2:1 
+wid:171913 count1:2.02664 count2:1 
+wid:172206 count1:5.38679 count2:2 
+wid:172355 count1:16.2687 count2:9 
+wid:173086 count1:6.07993 count2:1 
+wid:173811 count1:3.03997 count2:1 
+wid:174032 count1:3.03997 count2:1 
+wid:175397 count1:0.868562 count2:1 
+wid:175601 count1:3.03997 count2:1 
+wid:175603 count1:23.6676 count2:13 
+wid:176262 count1:1.21599 count2:1 
+wid:176625 count1:0.506661 count2:1 
+wid:177203 count1:1.76106 count2:2 
+wid:177364 count1:1.01332 count2:1 
+wid:177478 count1:1.01332 count2:1 
+wid:178354 count1:1.51998 count2:1 
+wid:178820 count1:0.552721 count2:1 
+wid:180153 count1:1.51998 count2:1 
+wid:180526 count1:6.07993 count2:1 
+wid:181059 count1:0.552721 count2:1 
+wid:182135 count1:3.03997 count2:1 
+wid:182300 count1:6.07993 count2:1 
+wid:182835 count1:2.02664 count2:1 
+wid:183353 count1:14.894 count2:7 
+wid:183698 count1:6.07993 count2:1 
+wid:183780 count1:6.07993 count2:1 
+wid:184140 count1:3.03997 count2:1 
+wid:185691 count1:13.9523 count2:8 
+wid:185699 count1:2.02664 count2:1 
+wid:185990 count1:1.01332 count2:1 
+wid:186405 count1:0.868562 count2:1 
+wid:186620 count1:6.07993 count2:1 
+wid:187662 count1:0.506661 count2:1 
+wid:188139 count1:1.21599 count2:1 
+wid:188190 count1:3.03997 count2:1 
+wid:188385 count1:3.03997 count2:1 
+wid:188475 count1:6.07993 count2:1 
+wid:189653 count1:6.07993 count2:1 
+wid:190323 count1:1.51998 count2:1 
+wid:190365 count1:4.48899 count2:2 
+wid:192100 count1:1.51998 count2:1 
+wid:192153 count1:1.08772 count2:2 
+wid:193175 count1:3.90203 count2:3 
+wid:193194 count1:3.03997 count2:1 
+wid:193327 count1:6.07993 count2:1 
+wid:194137 count1:0.759992 count2:1 
+wid:195471 count1:2.56514 count2:2 
+wid:197018 count1:0.467687 count2:1 
+wid:197731 count1:3.03997 count2:1 
+wid:197853 count1:10.6268 count2:4 
+wid:197856 count1:0.552721 count2:1 
+wid:197908 count1:0.868562 count2:1 
+wid:197931 count1:2.02664 count2:1 
+wid:198238 count1:9.34092 count2:7 
+wid:198336 count1:0.868562 count2:1 
+wid:198393 count1:2.02664 count2:1 
+wid:198436 count1:1.21599 count2:1 
+wid:199634 count1:6.07993 count2:1 
+wid:199893 count1:7.18238 count2:2 
+wid:200499 count1:3.03997 count2:1 
+wid:200722 count1:1.51998 count2:1 
+wid:202190 count1:1.51998 count2:1 
+wid:202191 count1:4.04009 count2:2 
+wid:202577 count1:1.21599 count2:1 
+wid:203320 count1:1.21599 count2:1 
+wid:203892 count1:0.868562 count2:1 
+wid:204838 count1:0.675548 count2:1 
+wid:204848 count1:1.01332 count2:1 
+wid:207783 count1:4.48319 count2:3 
+wid:207796 count1:2.02664 count2:1 
+wid:208300 count1:1.51998 count2:1 
+wid:208336 count1:3.03997 count2:1 
+wid:209484 count1:0.552721 count2:1 
+wid:211932 count1:3.77075 count2:2 
+wid:212061 count1:1.21599 count2:1 
+wid:212071 count1:1.01332 count2:1 
+wid:214108 count1:7.04046 count2:4 
+wid:214741 count1:4.04009 count2:3 
+wid:217024 count1:0.467687 count2:1 
+wid:217241 count1:3.03997 count2:1 
+wid:217977 count1:1.01332 count2:1 
+wid:221596 count1:8.48951 count2:7 
+wid:223658 count1:7.47198 count2:3 
+wid:224883 count1:8.08018 count2:2 
+wid:225169 count1:1.51998 count2:2 
+wid:226891 count1:1.21599 count2:1 
+wid:228702 count1:1.51998 count2:1 
+wid:229129 count1:3.03997 count2:1 
+wid:230797 count1:3.03997 count2:1 
+wid:230817 count1:2.02664 count2:1 
+wid:231976 count1:6.07993 count2:1 
+wid:232185 count1:3.03997 count2:1 
+wid:232296 count1:2.02664 count2:1 
+wid:232392 count1:44.7418 count2:66 
+wid:232801 count1:1.44289 count2:2 
+wid:232909 count1:3.03997 count2:1 
+wid:234315 count1:3.03997 count2:1 
+wid:235098 count1:3.03997 count2:1 
+wid:236232 count1:2.02664 count2:1 
+wid:236411 count1:22.2428 count2:17 
+wid:240698 count1:6.07993 count2:1 
+wid:244334 count1:2.02664 count2:1 
+wid:246759 count1:0.467687 count2:1 
+wid:248807 count1:3.03997 count2:1 
+wid:250738 count1:3.03997 count2:1 
+wid:250749 count1:1.21599 count2:1 
+wid:252167 count1:0.759992 count2:1 
+wid:252567 count1:1.73712 count2:2 
+wid:252634 count1:6.07993 count2:1 
+wid:253077 count1:6.07993 count2:1 
+wid:253135 count1:3.03997 count2:1 
+wid:253144 count1:3.03997 count2:1 
+wid:253875 count1:1.57115 count2:2 
+wid:255515 count1:1.01332 count2:1 
+wid:255931 count1:17.6276 count2:12 
+wid:256218 count1:3.23786 count2:3 
+wid:256345 count1:8.08018 count2:2 
+wid:256591 count1:3.14229 count2:2 
+wid:256744 count1:0.405329 count2:1 
+wid:260085 count1:3.59119 count2:2 
+wid:260130 count1:11.2312 count2:4 
+wid:260132 count1:3.03997 count2:1 
+wid:260154 count1:6.07993 count2:1 
+wid:260190 count1:1.01332 count2:2 
+wid:260207 count1:6.07993 count2:1 
+wid:260316 count1:5.87649 count2:2 
+wid:260411 count1:4.62811 count2:5 
+wid:263262 count1:1.51998 count2:1 
+wid:263310 count1:3.03997 count2:1 
+wid:263990 count1:2.02664 count2:1 
+wid:264686 count1:0.868562 count2:1 
+wid:266010 count1:4.73225 count2:3 
+wid:267075 count1:18.8311 count2:10 
+wid:267146 count1:2.02664 count2:1 
+wid:267148 count1:2.24449 count2:2 
+wid:268822 count1:2.02664 count2:1 
+wid:269494 count1:0.405329 count2:1 
+wid:269529 count1:2.02664 count2:1 
+wid:269659 count1:1.21599 count2:1 
+wid:269882 count1:6.07993 count2:1 
+wid:274463 count1:1.51998 count2:1 
+wid:275292 count1:3.03997 count2:1 
+wid:276446 count1:0.506661 count2:1 
+wid:276757 count1:1.01332 count2:2 
+wid:276779 count1:0.868562 count2:1 
+wid:276862 count1:0.868562 count2:1 
+wid:276939 count1:1.01332 count2:1 
+wid:277189 count1:0.552721 count2:1 
+wid:277303 count1:0.552721 count2:1 
+wid:277382 count1:1.21599 count2:1 
+wid:278198 count1:4.1511 count2:3 
+wid:278217 count1:1.51998 count2:1 
+wid:280760 count1:3.90203 count2:3 
+wid:281348 count1:6.28458 count2:3 
+wid:283216 count1:6.07993 count2:1 
+wid:285055 count1:1.51998 count2:1 
+wid:285868 count1:1.01332 count2:1 
+wid:287638 count1:1.01332 count2:1 
+wid:287796 count1:2.02664 count2:1 
+wid:288057 count1:2.02664 count2:1 
+wid:288585 count1:1.51998 count2:1 
+wid:289692 count1:8.3022 count2:3 
+wid:292262 count1:2.02664 count2:1 
+wid:292317 count1:2.02664 count2:1 
+wid:295148 count1:2.02664 count2:1 
+wid:296176 count1:6.07993 count2:1 
+wid:296239 count1:6.22665 count2:4 
+wid:296912 count1:0.868562 count2:1 
+wid:298322 count1:6.07993 count2:1 
+wid:298576 count1:4.08724 count2:4 
+wid:299396 count1:1.94724 count2:3 
+wid:302078 count1:2.87295 count2:3 
+wid:306072 count1:1.01332 count2:1 
+wid:306081 count1:6.07993 count2:1 
+wid:306792 count1:2.02664 count2:1 
+wid:307226 count1:6.07993 count2:1 
+wid:310240 count1:11.7925 count2:7 
+wid:310390 count1:6.07993 count2:1 
+wid:312663 count1:2.02664 count2:1 
+wid:312752 count1:11.0733 count2:8 
+wid:313256 count1:6.07993 count2:1 
+wid:313508 count1:0.607993 count2:1 
+wid:314443 count1:0.868562 count2:1 
+wid:314501 count1:6.07993 count2:1 
+wid:314957 count1:1.01332 count2:1 
+wid:316763 count1:4.98132 count2:5 
+wid:316841 count1:2.02664 count2:1 
+wid:319880 count1:2.02664 count2:1 
+wid:319985 count1:6.07993 count2:1 
+wid:319988 count1:6.07993 count2:1 
+wid:320226 count1:0.405329 count2:1 
+wid:320579 count1:1.01332 count2:1 
+wid:322361 count1:3.03997 count2:1 
+wid:322916 count1:3.03997 count2:1 
+wid:323789 count1:2.02664 count2:1 
+wid:324682 count1:3.08367 count2:3 
+wid:324951 count1:3.03997 count2:1 
+wid:325016 count1:2.02664 count2:1 
+wid:327800 count1:0.467687 count2:1 
+wid:328284 count1:0.675548 count2:1 
+wid:329772 count1:1.51998 count2:1 
+wid:333649 count1:1.01332 count2:1 
+wid:333740 count1:0.552721 count2:1 
+wid:334687 count1:3.14229 count2:2 
+wid:335258 count1:0.467687 count2:1 
+wid:335928 count1:1.51998 count2:1 
+wid:336824 count1:3.03997 count2:1 
+wid:337706 count1:11.6231 count2:3 
+wid:338571 count1:6.07993 count2:1 
+wid:339162 count1:3.03997 count2:1 
+wid:340164 count1:1.01332 count2:1 
+wid:341465 count1:2.02664 count2:1 
+wid:342000 count1:9.97398 count2:4 
+wid:342177 count1:1.21599 count2:1 
+wid:342408 count1:2.20996 count2:2 
+wid:342420 count1:0.759992 count2:1 
+wid:343192 count1:6.07993 count2:1 
+wid:343700 count1:0.552721 count2:1 
+wid:344488 count1:1.66734 count2:2 
+wid:345361 count1:8.08018 count2:2 
+wid:346213 count1:0.467687 count2:1 
+wid:346503 count1:4.48899 count2:2 
+wid:346586 count1:3.03997 count2:1 
+wid:346929 count1:1.01332 count2:1 
+wid:347374 count1:3.03997 count2:1 
+wid:348307 count1:0.759992 count2:1 
+wid:350002 count1:3.14229 count2:2 
+wid:354073 count1:3.03997 count2:1 
+wid:354948 count1:6.07993 count2:1 
+wid:354981 count1:1.01332 count2:1 
+wid:356068 count1:2.02664 count2:1 
+wid:356224 count1:3.03997 count2:1 
+wid:356375 count1:3.1831 count2:2 
+wid:356703 count1:2.02664 count2:1 
+wid:357276 count1:3.03997 count2:1 
+wid:357440 count1:0.506661 count2:1 
+wid:357544 count1:0.467687 count2:1 
+wid:357565 count1:2.77746 count2:4 
+wid:357699 count1:6.07993 count2:1 
+wid:357741 count1:3.03997 count2:1 
+wid:358661 count1:1.21599 count2:1 
+wid:358673 count1:1.21599 count2:1 
+wid:358967 count1:0.759992 count2:1 
+wid:359067 count1:13.1349 count2:9 
+wid:360915 count1:6.28458 count2:2 
+wid:361281 count1:6.46414 count2:2 
+wid:361567 count1:1.21599 count2:1 
+wid:361666 count1:1.21599 count2:1 
+wid:361846 count1:4.04009 count2:2 
+wid:361954 count1:0.607993 count2:1 
+wid:362328 count1:6.07993 count2:1 
+wid:363431 count1:0.675548 count2:1 
+wid:363935 count1:0.467687 count2:1 
+wid:364306 count1:1.51998 count2:1 
+wid:365157 count1:2.02664 count2:1 
+wid:365413 count1:3.03997 count2:1 
+wid:366349 count1:1.51998 count2:1 
+wid:368731 count1:1.51998 count2:1 
+wid:372389 count1:1.01332 count2:1 
+wid:373296 count1:2.02664 count2:1 
+wid:373309 count1:2.02664 count2:1 
+wid:375592 count1:2.02664 count2:1 
+wid:375632 count1:3.03997 count2:1 
+wid:376602 count1:5.38679 count2:2 
+wid:376675 count1:2.02664 count2:1 
+wid:376742 count1:0.759992 count2:1 
+wid:382892 count1:1.01332 count2:1 
+wid:383095 count1:3.03997 count2:1 
+wid:383447 count1:3.03997 count2:1 
+wid:385299 count1:1.21599 count2:1 
+wid:385554 count1:2.69444 count2:3 
+wid:385814 count1:1.51998 count2:1 
+wid:386389 count1:2.02664 count2:1 
+wid:387069 count1:0.506661 count2:1 
+wid:387285 count1:1.01332 count2:2 
+wid:389414 count1:0.868562 count2:1 
+wid:391033 count1:4.04009 count2:2 
+wid:391291 count1:0.467687 count2:1 
+wid:391994 count1:3.36674 count2:2 
+wid:392468 count1:2.2853 count2:2 
+wid:392608 count1:0.506661 count2:1 
+wid:393695 count1:8.89522 count2:4 
+wid:393965 count1:7.43159 count2:7 
+wid:394269 count1:1.94724 count2:3 
+wid:394965 count1:0.506661 count2:1 
+wid:395563 count1:1.21599 count2:1 
+wid:396952 count1:4.04009 count2:2 
+wid:397085 count1:1.01332 count2:1 
+wid:397150 count1:3.46293 count2:2 
+wid:399140 count1:0.607993 count2:1 
+wid:400549 count1:2.11624 count2:2 
+wid:405540 count1:3.03997 count2:1 
+wid:405579 count1:0.675548 count2:1 
+wid:405804 count1:1.01332 count2:2 
+wid:406094 count1:0.675548 count2:1 
+wid:407569 count1:0.868562 count2:1 
+wid:408014 count1:3.03997 count2:1 
+wid:408791 count1:0.552721 count2:1 
+wid:413249 count1:0.467687 count2:1 
+wid:414402 count1:6.07993 count2:1 
+wid:414480 count1:1.01332 count2:1 
+wid:415690 count1:1.51998 count2:1 
+wid:415725 count1:0.552721 count2:1 
+wid:417334 count1:3.03997 count2:1 
+wid:418149 count1:2.02664 count2:1 
+wid:418977 count1:1.21599 count2:1 
+wid:421810 count1:5.43417 count2:3 
+wid:421828 count1:0.467687 count2:1 
+wid:422044 count1:3.03997 count2:1 
+wid:425183 count1:3.03997 count2:1 
+wid:425340 count1:2.56514 count2:2 
+wid:425897 count1:10.5013 count2:8 
+wid:426190 count1:1.01332 count2:1 
+wid:426911 count1:3.03997 count2:1 
+wid:427238 count1:0.506661 count2:1 
+wid:431200 count1:0.552721 count2:1 
+wid:434518 count1:2.02664 count2:1 
+wid:434825 count1:7.18238 count2:2 
+wid:437497 count1:1.21599 count2:1 
+wid:437551 count1:0.467687 count2:1 
+wid:437699 count1:1.51998 count2:1 
+wid:438553 count1:3.03997 count2:1 
+wid:439049 count1:14.8352 count2:9 
+wid:439263 count1:0.467687 count2:1 
+wid:440090 count1:3.03997 count2:1 
+wid:440534 count1:1.01332 count2:1 
+wid:440866 count1:0.868562 count2:1 
+wid:441953 count1:6.15633 count2:2 
+wid:442781 count1:8.3022 count2:3 
+wid:442826 count1:3.14229 count2:2 
+wid:442875 count1:2.02664 count2:1 
+wid:443187 count1:1.01332 count2:1 
+wid:443661 count1:14.3984 count2:9 
+wid:443880 count1:2.56514 count2:2 
+wid:445192 count1:3.03997 count2:1 
+wid:445777 count1:0.467687 count2:1 
+wid:448458 count1:1.01332 count2:1 
+wid:448783 count1:2.02664 count2:1 
+wid:449424 count1:2.02664 count2:1 
+wid:450836 count1:6.07993 count2:1 
+wid:451172 count1:0.467687 count2:1 
+date:2009-08-15 00:00:00 
+sid:82436 
+sid:82440 
+sid:82454 
+sid:82461 
+sid:82467 
+sid:82470 
+sid:82471 
+sid:82474 
+sid:82477 
+sid:82505 
+sid:82506 
+sid:82507 
+sid:82519 
+sid:82526 
+sid:82537 
+sid:82539 
+sid:82544 
+sid:82545 
+sid:82576 
+sid:82590 
+sid:82625 
+sid:82641 
+sid:82644 
+sid:82661 
+sid:82667 
+sid:82677 
+sid:82683 
+sid:82706 
+sid:82712 
+sid:82729 
+sid:82732 
+sid:82769 
+sid:82770 
+sid:82774 
+sid:82776 
+sid:82784 
+sid:82785 
+sid:82795 
+sid:82798 
+sid:82828 
+sid:82861 
+sid:82879 
+sid:82880 
+sid:82884 
+sid:82888 
+sid:82897 
+sid:82900 
+sid:82904 
+sid:82907 
+sid:82915 
+sid:82918 
+sid:82921 
+sid:82925 
+sid:82928 
+sid:82934 
+sid:82937 
+sid:82938 
+sid:82939 
+sid:82942 
+sid:82945 
+sid:82946 
+sid:82950 
+sid:82952 
+sid:82959 
+sid:82960 
+sid:82961 
+wid:946 count1:0.396064 count2:1 
+wid:948 count1:0.792129 count2:2 
+wid:48045 count1:1.08918 count2:1 
+wid:57743 count1:0.363059 count2:1 
+wid:60960 count1:4.35671 count2:1 
+wid:65769 count1:1.45224 count2:1 
+wid:88139 count1:0.792129 count2:2 
+wid:93961 count1:2.13708 count2:2 
+wid:97077 count1:2.17835 count2:1 
+wid:98952 count1:0.396064 count2:1 
+wid:99631 count1:4.35671 count2:1 
+wid:99900 count1:1.08918 count2:1 
+wid:102761 count1:0.726118 count2:1 
+wid:105235 count1:0.435671 count2:1 
+wid:105248 count1:0.435671 count2:1 
+wid:105658 count1:0.726118 count2:1 
+wid:108245 count1:2.13708 count2:2 
+wid:108547 count1:0.622387 count2:1 
+wid:108893 count1:4.32695 count2:6 
+wid:110049 count1:0.622387 count2:1 
+wid:112912 count1:1.45224 count2:1 
+wid:115073 count1:7.52744 count2:11 
+wid:125236 count1:1.45224 count2:1 
+wid:127391 count1:1.45224 count2:1 
+wid:129445 count1:2.17835 count2:1 
+wid:129467 count1:0.484079 count2:1 
+wid:132778 count1:0.726118 count2:1 
+wid:132824 count1:0.435671 count2:1 
+wid:134830 count1:0.871342 count2:1 
+wid:142244 count1:1.08918 count2:1 
+wid:142560 count1:0.484079 count2:1 
+wid:149652 count1:0.622387 count2:1 
+wid:149878 count1:2.17835 count2:1 
+wid:152295 count1:2.17835 count2:1 
+wid:152829 count1:2.17835 count2:1 
+wid:153158 count1:0.622387 count2:1 
+wid:154938 count1:1.08918 count2:1 
+wid:156583 count1:2.17835 count2:1 
+wid:156842 count1:4.35671 count2:1 
+wid:161557 count1:1.08918 count2:1 
+wid:172073 count1:0.871342 count2:1 
+wid:172158 count1:3.05297 count2:2 
+wid:172206 count1:1.45224 count2:1 
+wid:173326 count1:0.622387 count2:1 
+wid:174024 count1:0.871342 count2:1 
+wid:175397 count1:3.66356 count2:2 
+wid:176668 count1:0.484079 count2:1 
+wid:180669 count1:1.45224 count2:1 
+wid:181069 count1:0.435671 count2:1 
+wid:181541 count1:4.35671 count2:1 
+wid:182127 count1:0.871342 count2:2 
+wid:183353 count1:4.07062 count2:2 
+wid:183976 count1:0.622387 count2:1 
+wid:184140 count1:1.08918 count2:1 
+wid:186515 count1:0.484079 count2:1 
+wid:187884 count1:1.45224 count2:1 
+wid:190028 count1:0.726118 count2:1 
+wid:190450 count1:4.35671 count2:1 
+wid:191298 count1:1.08918 count2:1 
+wid:198273 count1:0.726118 count2:1 
+wid:198282 count1:0.871342 count2:1 
+wid:201327 count1:2.17835 count2:1 
+wid:201921 count1:0.484079 count2:1 
+wid:203315 count1:0.726118 count2:1 
+wid:205083 count1:4.35671 count2:1 
+wid:207202 count1:1.49329 count2:3 
+wid:209383 count1:0.484079 count2:1 
+wid:209464 count1:0.544589 count2:1 
+wid:210403 count1:1.08918 count2:1 
+wid:214741 count1:1.45224 count2:1 
+wid:216824 count1:1.08918 count2:2 
+wid:216828 count1:0.544589 count2:1 
+wid:217014 count1:1.06854 count2:2 
+wid:220546 count1:2.17835 count2:1 
+wid:221028 count1:0.435671 count2:1 
+wid:221159 count1:0.363059 count2:1 
+wid:230303 count1:1.45224 count2:1 
+wid:232392 count1:3.91278 count2:5 
+wid:232909 count1:1.88729 count2:3 
+wid:234141 count1:1.45224 count2:1 
+wid:234898 count1:1.22119 count2:2 
+wid:235078 count1:0.871342 count2:1 
+wid:235171 count1:2.17835 count2:1 
+wid:235910 count1:0.726118 count2:1 
+wid:236411 count1:2.44357 count2:4 
+wid:247683 count1:4.35671 count2:1 
+wid:252167 count1:0.363059 count2:1 
+wid:252532 count1:1.08918 count2:1 
+wid:253180 count1:2.17835 count2:1 
+wid:255931 count1:1.45224 count2:1 
+wid:260085 count1:1.32295 count2:2 
+wid:260130 count1:2.17835 count2:1 
+wid:260154 count1:2.17835 count2:1 
+wid:260315 count1:0.622387 count2:1 
+wid:270315 count1:4.35671 count2:1 
+wid:272112 count1:0.435671 count2:1 
+wid:276757 count1:0.871342 count2:1 
+wid:277457 count1:0.622387 count2:1 
+wid:277687 count1:4.35671 count2:1 
+wid:280760 count1:0.484079 count2:1 
+wid:282752 count1:1.45224 count2:1 
+wid:282952 count1:5.49534 count2:2 
+wid:288057 count1:1.22119 count2:2 
+wid:289692 count1:4.35671 count2:1 
+wid:296200 count1:1.45224 count2:1 
+wid:296239 count1:4.88475 count2:2 
+wid:305702 count1:1.45224 count2:1 
+wid:307226 count1:0.726118 count2:1 
+wid:312752 count1:1.24894 count2:4 
+wid:313693 count1:2.17835 count2:1 
+wid:313787 count1:0.726118 count2:1 
+wid:316246 count1:2.17835 count2:1 
+wid:325097 count1:1.08918 count2:1 
+wid:325502 count1:1.45224 count2:1 
+wid:333839 count1:0.871342 count2:1 
+wid:334293 count1:2.17835 count2:1 
+wid:336690 count1:0.726118 count2:1 
+wid:338686 count1:2.17835 count2:1 
+wid:344511 count1:0.871342 count2:1 
+wid:346586 count1:0.363059 count2:1 
+wid:347501 count1:1.08918 count2:1 
+wid:348241 count1:2.17835 count2:1 
+wid:348307 count1:1.45224 count2:1 
+wid:353256 count1:0.622387 count2:1 
+wid:354044 count1:1.45224 count2:1 
+wid:355677 count1:4.35671 count2:1 
+wid:355943 count1:1.06854 count2:2 
+wid:359067 count1:4.35671 count2:1 
+wid:361145 count1:0.622387 count2:1 
+wid:368093 count1:2.17835 count2:1 
+wid:374648 count1:1.08918 count2:1 
+wid:378684 count1:1.45224 count2:1 
+wid:385554 count1:0.622387 count2:1 
+wid:389414 count1:1.08918 count2:1 
+wid:391432 count1:1.08918 count2:1 
+wid:401071 count1:1.45224 count2:1 
+wid:401426 count1:0.622387 count2:1 
+wid:403065 count1:2.17835 count2:1 
+wid:403896 count1:1.08918 count2:1 
+wid:406094 count1:1.08918 count2:1 
+wid:408791 count1:1.45224 count2:1 
+wid:409694 count1:0.871342 count2:1 
+wid:419239 count1:1.45224 count2:1 
+wid:419401 count1:4.35671 count2:1 
+wid:422490 count1:2.17835 count2:2 
+wid:424099 count1:2.17835 count2:1 
+wid:433081 count1:2.17835 count2:1 
+wid:433225 count1:1.08918 count2:1 
+wid:435024 count1:1.45224 count2:1 
+wid:435025 count1:8.91124 count2:4 
+wid:438579 count1:1.08918 count2:1 
+wid:439049 count1:2.17835 count2:1 
+wid:443661 count1:2.16483 count2:2 
+wid:446964 count1:0.622387 count2:1 
+wid:448458 count1:1.08918 count2:1 
+wid:453954 count1:0.363059 count2:1 

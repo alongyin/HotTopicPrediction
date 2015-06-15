@@ -1,0 +1,852 @@
+AssessUtil Init 
+BuildGraph Init 
+DbUtil Init 
+CacheUtil Init totalWid:456785 totalPos:456785 totalCont:456785 totalStatus:1083264 totalUsers:360578 
+DbUtil Init 
+HttpUtil Init 
+ParseUtil Init 
+PreProcess Init 
+totalStatus:1083289 
+Spread Init 
+StrUtil Init 
+TimeUtil Init 
+TopicDiscover Init startTime:2009-08-12 00:00:00 query:select count(*) from tagstatus where time < '2009-08-12 00:00:00' 
+Test Start 
+date:2009-08-12 00:00:00 
+sid:3223 
+date:2009-08-13 00:00:00 
+sid:69319 
+sid:69476 
+sid:70220 
+sid:71138 
+sid:71699 
+sid:77659 
+sid:78515 
+sid:78554 
+sid:79360 
+sid:79661 
+sid:79758 
+sid:79863 
+wid:113789 cont:传说 
+wid:126155 cont:公元 
+wid:140010 cont:动机 
+wid:212630 cont:帷幕 
+wid:215192 cont:床 
+wid:237427 cont:打扮 
+wid:242062 cont:拉锯战 
+wid:255786 cont:新手 
+wid:256606 cont:方法 
+wid:323789 cont:用户 
+date:2009-08-14 00:00:00 
+sid:79987 
+sid:80006 
+sid:80007 
+sid:80011 
+sid:80012 
+sid:80020 
+sid:80035 
+sid:80051 
+sid:80055 
+sid:80114 
+sid:80132 
+sid:80134 
+sid:80135 
+sid:80136 
+sid:80157 
+sid:80162 
+sid:80166 
+sid:80167 
+sid:80168 
+sid:80170 
+sid:80173 
+sid:80177 
+sid:80183 
+sid:80184 
+sid:80185 
+sid:80186 
+sid:80187 
+sid:80189 
+sid:80193 
+sid:80194 
+sid:80198 
+sid:80199 
+sid:80205 
+sid:80210 
+sid:80212 
+sid:80215 
+sid:80219 
+sid:80220 
+sid:80221 
+sid:80225 
+sid:80229 
+sid:80230 
+sid:80233 
+sid:80260 
+sid:80263 
+sid:80282 
+sid:80283 
+sid:80284 
+sid:80288 
+sid:80295 
+sid:80303 
+sid:80309 
+sid:80313 
+sid:80321 
+sid:80331 
+sid:80333 
+sid:80344 
+sid:80355 
+sid:80356 
+sid:80359 
+sid:80360 
+sid:80361 
+sid:80370 
+sid:80372 
+sid:80374 
+sid:80376 
+sid:80382 
+sid:80387 
+sid:80388 
+sid:80389 
+sid:80394 
+sid:80396 
+sid:80400 
+sid:80429 
+sid:80430 
+sid:80439 
+sid:80440 
+sid:80454 
+sid:80457 
+sid:80464 
+sid:80477 
+sid:80488 
+sid:80490 
+sid:80498 
+sid:80516 
+sid:80528 
+sid:80538 
+sid:80539 
+sid:80540 
+sid:80544 
+sid:80552 
+sid:80567 
+sid:80569 
+sid:80571 
+sid:80578 
+sid:80580 
+sid:80591 
+sid:80601 
+sid:80602 
+sid:80618 
+sid:80626 
+sid:80627 
+sid:80628 
+sid:80634 
+sid:80635 
+sid:80637 
+sid:80640 
+sid:80641 
+sid:80647 
+sid:80648 
+sid:80651 
+sid:80653 
+sid:80654 
+sid:80655 
+sid:80656 
+sid:80659 
+sid:80660 
+sid:80662 
+sid:80668 
+sid:80670 
+sid:80672 
+sid:80673 
+sid:80677 
+sid:80691 
+sid:80692 
+sid:80699 
+sid:80704 
+sid:80705 
+sid:80731 
+sid:80732 
+sid:80742 
+sid:80755 
+sid:80757 
+sid:80758 
+sid:80767 
+sid:80768 
+sid:80771 
+sid:80773 
+sid:80775 
+sid:80784 
+sid:80785 
+sid:80789 
+sid:80791 
+sid:80794 
+sid:80795 
+sid:80796 
+sid:80813 
+sid:80815 
+sid:80818 
+sid:80819 
+sid:80826 
+sid:80829 
+sid:80833 
+sid:80852 
+sid:80854 
+sid:80855 
+sid:80857 
+sid:80859 
+sid:80860 
+sid:80861 
+sid:80863 
+sid:80870 
+sid:80881 
+sid:80882 
+sid:80887 
+sid:80888 
+sid:80894 
+sid:80900 
+sid:80906 
+sid:80915 
+sid:80918 
+sid:80921 
+sid:80922 
+sid:80929 
+sid:80931 
+sid:80932 
+sid:80942 
+sid:80967 
+sid:80968 
+sid:80981 
+sid:80982 
+sid:80988 
+sid:81001 
+sid:81002 
+sid:81010 
+sid:81011 
+sid:81014 
+sid:81019 
+sid:81022 
+sid:81031 
+sid:81041 
+sid:81046 
+sid:81051 
+sid:81062 
+sid:81078 
+sid:81079 
+sid:81082 
+sid:81086 
+sid:81098 
+sid:81110 
+sid:81111 
+sid:81137 
+sid:81148 
+sid:81153 
+sid:81156 
+sid:81198 
+sid:81199 
+sid:81260 
+sid:81263 
+sid:81267 
+sid:81275 
+sid:81276 
+sid:81281 
+sid:81289 
+sid:81293 
+sid:81296 
+sid:81305 
+sid:81309 
+sid:81314 
+sid:81318 
+sid:81319 
+sid:81320 
+sid:81324 
+sid:81326 
+sid:81330 
+sid:81333 
+sid:81364 
+sid:81367 
+sid:81368 
+sid:81380 
+sid:81418 
+sid:81424 
+sid:81427 
+sid:81444 
+sid:81474 
+sid:81507 
+sid:81509 
+sid:81510 
+sid:81511 
+sid:81516 
+sid:81524 
+sid:81525 
+sid:81536 
+sid:81537 
+sid:81548 
+sid:81556 
+sid:81558 
+sid:81587 
+sid:81599 
+sid:81622 
+sid:81638 
+sid:81666 
+sid:81667 
+sid:81674 
+sid:81679 
+sid:81680 
+sid:81687 
+sid:81688 
+sid:81690 
+sid:81698 
+sid:81703 
+sid:81711 
+sid:81715 
+sid:81718 
+sid:81740 
+sid:81741 
+sid:81744 
+sid:81746 
+sid:81753 
+sid:81766 
+sid:81799 
+sid:81801 
+sid:81802 
+sid:81803 
+sid:81818 
+sid:81832 
+sid:81845 
+sid:81873 
+sid:81905 
+sid:81911 
+sid:81913 
+sid:81915 
+sid:81916 
+sid:81917 
+sid:81942 
+sid:81993 
+sid:81995 
+sid:82040 
+sid:82071 
+sid:82137 
+sid:82165 
+sid:82169 
+sid:82173 
+sid:82184 
+sid:82214 
+sid:82224 
+sid:82227 
+sid:82228 
+sid:82237 
+sid:82238 
+sid:82239 
+sid:82243 
+sid:82283 
+sid:82284 
+sid:82286 
+sid:82290 
+sid:82318 
+sid:82326 
+sid:82372 
+sid:82373 
+sid:82375 
+sid:82380 
+sid:82382 
+sid:82399 
+sid:82409 
+sid:82413 
+sid:82415 
+sid:82416 
+wid:1 cont:" 
+wid:948 cont:...... 
+wid:17833 cont:5号 
+wid:23900 cont:@么 
+wid:31322 cont:@张蕊 
+wid:35861 cont:@水洋 
+wid:43386 cont:@身 
+wid:49782 cont:bfishadow 
+wid:57202 cont:fanfou 
+wid:60960 cont:http 
+wid:62401 cont:iPod 
+wid:64284 cont:kitty 
+wid:67609 cont:mingsheng1 
+wid:68795 cont:nakednews 
+wid:69212 cont:nice 
+wid:72753 cont:QQ 
+wid:73998 cont:rom 
+wid:79386 cont:ts 
+wid:79745 cont:u.sinajs.cn 
+wid:80980 cont:VPN 
+wid:84110 cont:z 
+wid:86459 cont:… 
+wid:97229 cont:专辑 
+wid:97400 cont:世界 
+wid:98152 cont:东西 
+wid:99084 cont:个性 
+wid:101499 cont:主打歌 
+wid:104511 cont:书稿 
+wid:105205 cont:事 
+wid:105248 cont:事儿 
+wid:105665 cont:二奶 
+wid:108245 cont:产品 
+wid:108893 cont:人 
+wid:109509 cont:人生 
+wid:109880 cont:仁兄 
+wid:110215 cont:介儿 
+wid:110229 cont:介地 
+wid:113363 cont:会议室 
+wid:113789 cont:传说 
+wid:118436 cont:信 
+wid:118601 cont:信息 
+wid:123143 cont:元宿 
+wid:123249 cont:兄弟 
+wid:124727 cont:党 
+wid:126230 cont:公告 
+wid:126239 cont:公园 
+wid:127207 cont:关 
+wid:127431 cont:关系 
+wid:127649 cont:兴趣 
+wid:128327 cont:内事 
+wid:128452 cont:内容 
+wid:131710 cont:准生证 
+wid:133300 cont:出炉 
+wid:134302 cont:分量 
+wid:134823 cont:列表 
+wid:136497 cont:利 
+wid:138033 cont:剑剑 
+wid:138985 cont:办公室 
+wid:139017 cont:办法 
+wid:139085 cont:功夫 
+wid:139172 cont:功能 
+wid:139961 cont:动态 
+wid:142560 cont:医院 
+wid:143653 cont:午餐 
+wid:143659 cont:午饭 
+wid:144930 cont:单曲 
+wid:145904 cont:博主 
+wid:146604 cont:卡哇伊 
+wid:148044 cont:历史 
+wid:148071 cont:历史课 
+wid:148553 cont:原型 
+wid:148812 cont:厨柜 
+wid:154342 cont:台风 
+wid:154902 cont:号 
+wid:156430 cont:同事 
+wid:156517 cont:同学 
+wid:156583 cont:同志 
+wid:156842 cont:名 
+wid:157056 cont:名字 
+wid:157460 cont:后台 
+wid:157616 cont:后果 
+wid:162499 cont:咖啡 
+wid:164676 cont:哥哥 
+wid:169531 cont:噶 
+wid:171913 cont:国情 
+wid:172206 cont:图 
+wid:172355 cont:图片 
+wid:173086 cont:土豆 
+wid:173811 cont:地方 
+wid:174032 cont:地铁站 
+wid:175601 cont:域 
+wid:175603 cont:域名 
+wid:176262 cont:塑身 
+wid:177364 cont:声音 
+wid:177478 cont:处 
+wid:178354 cont:外事 
+wid:180153 cont:大会 
+wid:180526 cont:大厅 
+wid:182135 cont:大片 
+wid:182300 cont:大盘 
+wid:182835 cont:大象 
+wid:183353 cont:天 
+wid:183698 cont:天地 
+wid:183780 cont:天天 
+wid:184140 cont:天气 
+wid:185691 cont:头像 
+wid:185699 cont:头像点 
+wid:185990 cont:头象 
+wid:186620 cont:奉旨 
+wid:188139 cont:奶 
+wid:188190 cont:奶奶 
+wid:188385 cont:好// 
+wid:188475 cont:好人 
+wid:189653 cont:妈妈 
+wid:190323 cont:姐 
+wid:190365 cont:姐姐 
+wid:192100 cont:婴儿 
+wid:193175 cont:字 
+wid:193194 cont:字体 
+wid:193327 cont:字符 
+wid:195471 cont:守望者 
+wid:197731 cont:宝贝 
+wid:197853 cont:实名 
+wid:197931 cont:实时 
+wid:198238 cont:客 
+wid:198393 cont:客牛叉 
+wid:198436 cont:客车 
+wid:199634 cont:宿命 
+wid:199893 cont:密码 
+wid:200499 cont:寨 
+wid:200722 cont:对手 
+wid:202190 cont:小卖部 
+wid:202191 cont:小卖铺 
+wid:202577 cont:小姐 
+wid:203320 cont:小时工 
+wid:204848 cont:小车 
+wid:207783 cont:山寨 
+wid:207796 cont:山寨域 
+wid:208300 cont:岔子 
+wid:208336 cont:岛 
+wid:211932 cont:帐号 
+wid:212061 cont:帖 
+wid:212071 cont:帖子 
+wid:214108 cont:年轻人 
+wid:214741 cont:广告 
+wid:217241 cont:开心网 
+wid:217977 cont:弊 
+wid:221596 cont:彩信 
+wid:223658 cont:微博客 
+wid:224883 cont:心情 
+wid:226891 cont:快餐店 
+wid:228702 cont:总收入 
+wid:229129 cont:恐慌性 
+wid:230797 cont:情况 
+wid:230817 cont:情商 
+wid:231976 cont:想法 
+wid:232185 cont:愉快感 
+wid:232296 cont:意思 
+wid:232909 cont:感觉 
+wid:234315 cont:成人版 
+wid:235098 cont:战军 
+wid:236232 cont:手工 
+wid:236411 cont:手机 
+wid:240698 cont:报告 
+wid:244334 cont:按钮 
+wid:248807 cont:摄影机 
+wid:250738 cont:收件箱 
+wid:250749 cont:收入 
+wid:252634 cont:教皇 
+wid:253077 cont:数 
+wid:253135 cont:数字 
+wid:253144 cont:数学 
+wid:255515 cont:新公 
+wid:255931 cont:新浪 
+wid:256218 cont:新闻 
+wid:256345 cont:新鲜事 
+wid:256591 cont:方案 
+wid:260085 cont:时 
+wid:260130 cont:时候 
+wid:260132 cont:时光 
+wid:260154 cont:时刻 
+wid:260207 cont:时尚圈 
+wid:260316 cont:时机 
+wid:263262 cont:晚礼 
+wid:263310 cont:晚餐 
+wid:263990 cont:智商 
+wid:266010 cont:月 
+wid:267075 cont:朋友 
+wid:267146 cont:服务员 
+wid:267148 cont:服务器 
+wid:268822 cont:本色 
+wid:269529 cont:机器 
+wid:269659 cont:机洗　　 
+wid:269882 cont:杀机 
+wid:274463 cont:林 
+wid:275292 cont:枪手 
+wid:276939 cont:栏 
+wid:277382 cont:样式 
+wid:278198 cont:框 
+wid:278217 cont:框架 
+wid:280760 cont:楼 
+wid:281348 cont:模板 
+wid:283216 cont:歌词 
+wid:285055 cont:死胎 
+wid:285868 cont:母猪 
+wid:287638 cont:气体 
+wid:287796 cont:气氛 
+wid:288057 cont:水 
+wid:288585 cont:水深 
+wid:289692 cont:汗 
+wid:292262 cont:沧海横流方 
+wid:292317 cont:河 
+wid:295148 cont:洗手间 
+wid:296176 cont:流媒体 
+wid:296239 cont:流星雨 
+wid:298322 cont:海量 
+wid:298576 cont:消息 
+wid:306072 cont:火车 
+wid:306081 cont:火车票 
+wid:306792 cont:灵谷 
+wid:307226 cont:炖 
+wid:310240 cont:照片 
+wid:310390 cont:煽情 
+wid:312663 cont:片子 
+wid:312752 cont:版 
+wid:313256 cont:牛奶 
+wid:314501 cont:特种部队 
+wid:314957 cont:状况 
+wid:316841 cont:猪头 
+wid:319880 cont:玩偶 
+wid:319985 cont:玩意 
+wid:319988 cont:玩意儿 
+wid:320579 cont:玻璃 
+wid:322361 cont:瓶 
+wid:322916 cont:甜食 
+wid:323789 cont:用户 
+wid:324682 cont:电影 
+wid:324951 cont:电脑 
+wid:325016 cont:电视 
+wid:329772 cont:百度 
+wid:333649 cont:真人 
+wid:334687 cont:眼睛 
+wid:335928 cont:短信 
+wid:336824 cont:砖头 
+wid:337706 cont:碎碎 
+wid:338571 cont:礼物 
+wid:339162 cont:神兽 
+wid:340164 cont:福 
+wid:341465 cont:科技 
+wid:342000 cont:积分 
+wid:342177 cont:移动卡 
+wid:342408 cont:程序 
+wid:343192 cont:空姐 
+wid:345361 cont:笑纳哈 
+wid:346503 cont:等级 
+wid:346586 cont:筒子 
+wid:346929 cont:简介 
+wid:347374 cont:管理员 
+wid:350002 cont:系统 
+wid:354073 cont:组图 
+wid:354948 cont:结局 
+wid:354981 cont:结构 
+wid:356068 cont:绵羊音 
+wid:356224 cont:绿坝 
+wid:356375 cont:绿色 
+wid:356703 cont:编辑 
+wid:357276 cont:网吧 
+wid:357699 cont:网通 
+wid:357741 cont:网页 
+wid:358661 cont:羊毛 
+wid:358673 cont:羊毛衫 
+wid:359067 cont:美女 
+wid:360915 cont:老公 
+wid:361281 cont:老头 
+wid:361567 cont:老师 
+wid:361666 cont:老总 
+wid:361846 cont:老板 
+wid:362328 cont:老脸 
+wid:364306 cont:聚友 
+wid:365157 cont:肚子 
+wid:365413 cont:股市 
+wid:366349 cont:背心 
+wid:368731 cont:脸 
+wid:372389 cont:色彩 
+wid:373296 cont:芙蓉 
+wid:373309 cont:芙蓉路 
+wid:375592 cont:英雄 
+wid:375632 cont:苹果 
+wid:376602 cont:草泥马 
+wid:376675 cont:草莓 
+wid:382892 cont:虚线 
+wid:383095 cont:虾米 
+wid:383447 cont:蛋糕 
+wid:385299 cont:行间距 
+wid:385814 cont:表 
+wid:386389 cont:袋 
+wid:391033 cont:警句 
+wid:391994 cont:记者 
+wid:392468 cont:论坛 
+wid:393695 cont:话 
+wid:393965 cont:话题 
+wid:395563 cont:课 
+wid:396952 cont:谷歌 
+wid:397085 cont:豆子 
+wid:397150 cont:豆瓣 
+wid:400549 cont:资料 
+wid:405540 cont:身 
+wid:408014 cont:输入框 
+wid:414402 cont:道路 
+wid:414480 cont:遗像 
+wid:415690 cont:邮件 
+wid:417334 cont:酒 
+wid:418149 cont:酸汤 
+wid:418977 cont:重伤 
+wid:421810 cont:钱 
+wid:422044 cont:钻石 
+wid:425183 cont:门 
+wid:425340 cont:门槛 
+wid:425897 cont:问题 
+wid:426190 cont:间距 
+wid:426911 cont:队形 
+wid:434518 cont:雷人 
+wid:434825 cont:雷阵雨 
+wid:437497 cont:面包车 
+wid:437699 cont:面相 
+wid:438553 cont:音乐 
+wid:439049 cont:页面 
+wid:440090 cont:领导人 
+wid:440534 cont:颜色 
+wid:441953 cont:飞屋 
+wid:442781 cont:饭 
+wid:442826 cont:饭否 
+wid:442875 cont:饭店 
+wid:443187 cont:饲养员 
+wid:443661 cont:首页 
+wid:443880 cont:香水 
+wid:445192 cont:马甲 
+wid:448458 cont:魔兽 
+wid:448783 cont:鱼发 
+wid:449424 cont:鲤鱼 
+wid:450836 cont:麦兜 
+date:2009-08-15 00:00:00 
+sid:82436 
+sid:82440 
+sid:82454 
+sid:82461 
+sid:82467 
+sid:82470 
+sid:82471 
+sid:82474 
+sid:82477 
+sid:82505 
+sid:82506 
+sid:82507 
+sid:82519 
+sid:82526 
+sid:82537 
+sid:82539 
+sid:82544 
+sid:82545 
+sid:82576 
+sid:82590 
+sid:82625 
+sid:82641 
+sid:82644 
+sid:82661 
+sid:82667 
+sid:82677 
+sid:82683 
+sid:82706 
+sid:82712 
+sid:82729 
+sid:82732 
+sid:82769 
+sid:82770 
+sid:82774 
+sid:82776 
+sid:82784 
+sid:82785 
+sid:82795 
+sid:82798 
+sid:82828 
+sid:82861 
+sid:82879 
+sid:82880 
+sid:82884 
+sid:82888 
+sid:82897 
+sid:82900 
+sid:82904 
+sid:82907 
+sid:82915 
+sid:82918 
+sid:82921 
+sid:82925 
+sid:82928 
+sid:82934 
+sid:82937 
+sid:82938 
+sid:82939 
+sid:82942 
+sid:82945 
+sid:82946 
+sid:82950 
+sid:82952 
+sid:82959 
+sid:82960 
+sid:82961 
+wid:48045 cont:angelulu 
+wid:60960 cont:http 
+wid:65769 cont:logo 
+wid:93961 cont:上线 
+wid:97077 cont:专场 
+wid:99631 cont:中国会 
+wid:99900 cont:中心 
+wid:108245 cont:产品 
+wid:112912 cont:优势 
+wid:125236 cont:全国 
+wid:127391 cont:关注者 
+wid:129445 cont:农庄 
+wid:142244 cont:北门 
+wid:149878 cont:双色球 
+wid:152295 cont:口 
+wid:152829 cont:古岸 
+wid:154938 cont:号码 
+wid:156583 cont:同志 
+wid:156842 cont:名 
+wid:161557 cont:味道 
+wid:172158 cont:国际 
+wid:172206 cont:图 
+wid:175397 cont:城 
+wid:180669 cont:大哥 
+wid:181541 cont:大提子 
+wid:183353 cont:天 
+wid:184140 cont:天气 
+wid:187884 cont:女排 
+wid:190450 cont:姑娘 
+wid:191298 cont:娃子 
+wid:201327 cont:封面 
+wid:205083 cont:小雪 
+wid:210403 cont:差异 
+wid:214741 cont:广告 
+wid:220546 cont:强力 
+wid:230303 cont:患者 
+wid:234141 cont:戏份 
+wid:235171 cont:战报 
+wid:247683 cont:提子 
+wid:252532 cont:教堂 
+wid:253180 cont:数据 
+wid:255931 cont:新浪 
+wid:260130 cont:时候 
+wid:260154 cont:时刻 
+wid:270315 cont:权限 
+wid:277687 cont:根葱 
+wid:282752 cont:欲望 
+wid:282952 cont:歌 
+wid:289692 cont:汗 
+wid:296200 cont:流感 
+wid:296239 cont:流星雨 
+wid:305702 cont:火力 
+wid:313693 cont:牡丹园 
+wid:316246 cont:狮子座 
+wid:325097 cont:电话会议 
+wid:325502 cont:男篮 
+wid:334293 cont:真费 
+wid:338686 cont:社区 
+wid:347501 cont:箱 
+wid:348241 cont:类型 
+wid:348307 cont:粉丝 
+wid:354044 cont:组 
+wid:355677 cont:绩效 
+wid:359067 cont:美女 
+wid:368093 cont:脑子 
+wid:374648 cont:苏小糖 
+wid:378684 cont:菱形 
+wid:389414 cont:视频 
+wid:391432 cont:订酒店 
+wid:401071 cont:赛季 
+wid:403065 cont:超女 
+wid:403896 cont:足球场 
+wid:406094 cont:车 
+wid:408791 cont:达人 
+wid:419239 cont:重症 
+wid:419401 cont:野丽莎 
+wid:422490 cont:铃铛 
+wid:424099 cont:镜头 
+wid:433081 cont:集体 
+wid:433225 cont:集锦 
+wid:435024 cont:霄云 
+wid:435025 cont:霄云哥 
+wid:438579 cont:音乐季 
+wid:439049 cont:页面 
+wid:443661 cont:首页 
+wid:448458 cont:魔兽 
